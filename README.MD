@@ -11,13 +11,18 @@
 <p align="center"> 
   <kbd>
     <a href="https://github.com/nancy2501st/Nancy-Portfolio" target="_blank">
-    <img src="examples/Screenshot (113).png" alt="Portfolio Screenshot">
+    <img src="Screenshot (113).png" alt="Portfolio Screenshot">
 
   </a>
   </kbd>
 </p>
 
 :star: Star me on GitHub — it helps!
+
+## Technologies used 
+ - HTML5 , CSS, JavaScript 
+ - typed.js , typed.min.js , typed.min.js.main
+ - Github page , Vercel Link
 
 ## Features 📋
 ⚡️ Fully Responsive\
@@ -32,6 +37,11 @@
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
 - Push the generated code to the `main` branch of this repository.
 - <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+
+## How to run locally
+- clone the repository
+- npm install
+- npm start
 
 ## Sections 📚
 ✔️ About me\
@@ -64,6 +74,9 @@ To view a live example, **[click here](https://github.com/nancy2501st/Nancy-Port
 #### Step 3
 
 - 🔃 Create a new pull request.
+
+## Live Demo Url
+https://vercel.com/nancy2501sts-projects/nancy-portfolio
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
